@@ -23,7 +23,7 @@ Currently, two official plugins are available:
 
 # Landing Page
 
-<img src="https://github.com/puthranroshan/ROBOCRAFT-MERN-STACK-/blob/main/Landing_pg.png4" width="100%"></img>
+<img src="https://github.com/puthranroshan/ROBOCRAFT-MERN-STACK-/blob/main/Landing_pg.png" width="100%"></img>
 
 # Registration Form
 <img src="https://github.com/puthranroshan/ROBOCRAFT-MERN-STACK-/blob/main/reg_form.png" width="100%"></img>
