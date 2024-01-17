@@ -1,0 +1,101 @@
+.foot_contain {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+.robo_addr {
+    display: flex;
+    max-width: 13%;
+    flex-direction: column;
+}
+
+.robo_addr h2 {
+    color: #FFF;
+    font-size: 40px;
+    font-style: normal;
+    line-height: normal;
+}
+
+.social_media {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 15px;
+
+}
+
+.item {
+    margin: 20px;
+}
+
+.link_head {
+    color: #FFF;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 20px;
+}
+
+.line {
+    width: 249.008px;
+    height: 4px;
+    background: #FFF;
+    margin-bottom: 5px;
+    margin-bottom: 15px
+}
+
+.quick {
+    color: #fff8f8;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10px 0px;
+}
+
+.wrapper p, .quick a {
+    color: white;
+    text-decoration: none;
+}
+
+.location {
+    display: flex;
+    border-radius: 15.84px;
+    padding-top: 10px;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    max-width: 13%;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+#fimp{
+background-image: url(./Images/Footerv.png);
+}
+.cpyright {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color: #FFF;
+}
+
+.cpyright p {
+    color: black;
+}

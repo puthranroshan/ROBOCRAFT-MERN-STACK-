@@ -1,0 +1,70 @@
+
+.menu {
+    display: inline;
+}
+
+.menu ul {
+    list-style: none;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.menu ul li {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 0.2rem 1rem;
+}
+
+.sp_body {
+    display: flex;
+    margin: 0.2rem auto;
+
+}
+
+.inputs {
+    display: block;
+    width: 40%;
+    margin: auto 2.5rem;
+    padding: 0 1.5rem;
+
+}
+
+.img {
+    width: 40%;
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img img {
+    width: 70%;
+}
+
+input {
+    width: 70%;
+    display: block;
+    padding: 0.6rem 0.5rem;
+    border-radius: 0.5rem;
+    border: 1.5px solid #223F68;
+    text-align: left;
+    margin: 0.8rem 0;
+    background-color: #ffffff;
+}
+
+.button_sp {
+    margin: 0.6rem 0rem;
+    display: block;
+    width: 75%;
+    background-color: #1D2F50;
+    text-align: center;
+    color: #5FFF00;
+}
+
+.inputs h2 {
+    text-align: left;
+    color: #1D2F50;
+}
+

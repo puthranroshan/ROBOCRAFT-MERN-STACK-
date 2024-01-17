@@ -1,0 +1,57 @@
+.sp_bodyL {
+    display: flex;
+    margin: 0.2rem auto;
+    flex-direction: row;
+    background-image: url(./Images/loginpage.png);
+    background-size: cover;
+    height: 98vh;
+}
+
+.inputsL {
+    display: block;
+    width: 34.375rem;
+    /* margin: auto; */
+    margin-left: 185px;
+    margin-top: 15rem;
+}
+
+.image_divL{
+    display: block;
+    margin-top: 0rem;
+    margin-bottom: auto;
+    width: 20rem;
+    margin-left: 0rem;
+}
+
+
+input {
+    width: 60%;
+    display: block;
+    padding: 0.6rem 0.5rem;
+    border-radius: 0.5rem;
+    border: 1.5px solid #223F68;
+    text-align: left;
+    margin: 0.8rem 0;
+    background-color: #fff;
+}
+
+.button_sp {
+    margin: 0.6rem 0rem;
+    display: block;
+    width: 403px;
+    background-color: #1D2F50;
+    text-align: center;
+     color:#5FFF00;
+}
+.inputsL h2{
+    text-align: left;
+    color: #1D2F50;
+}
+
+.inputsL p {
+    font-size: medium;
+}
+
+.forgot p {
+    font-size: medium;
+}

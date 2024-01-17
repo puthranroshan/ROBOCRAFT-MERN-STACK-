@@ -1,0 +1,44 @@
+.about_us {
+    padding: 2rem;
+    display: block;
+    align-items: center;
+    text-align: center;
+    height: 95vh;
+    background-size: cover;
+    background-image: url('./Images/about_bg.png');
+}
+.ab_img{
+    width: 40%;
+}
+.ab_img img {
+    width: 80%;
+}
+.ab_content{
+width: 60%;
+margin: auto 0;
+align-items: center;
+}
+.ab_content p{
+    font-size: 1.4em;
+    width: 75%;
+    line-height: 150%;
+    text-align: left;
+    padding: 0.5rem 3rem;
+}
+
+.abt_cnt {
+    width: 100%;
+    display: flex;
+    color: #1D2F50;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}
+
+.about_us h2 {
+    color: #1D2F50;
+    font-size: 2.4em;
+    margin: 0;
+}
