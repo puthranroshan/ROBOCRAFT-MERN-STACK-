@@ -21,40 +21,34 @@ Currently, two official plugins are available:
 
 # Screenshots
 
+# Landing Page
 
-<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%20(71).png" width="100%"></img>
+<img src="https://github.com/puthranroshan/ROBOCRAFT-MERN-STACK-/blob/main/Landing_pg.png4" width="100%"></img>
 
-# Weather App
-<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023410.png" width="100%"></img>
-
-
-# Calculator App
-<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023503.png" width="100%"></img>
+# Registration Form
+<img src="https://github.com/puthranroshan/ROBOCRAFT-MERN-STACK-/blob/main/reg_form.png" width="100%"></img>
 
 
-# Text Editor
-<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023521.png" width="100%"></img>
-
-<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023538.png" width="100%"></img>
-
-# Gallery App
-<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023618.png" width="100%"></img>
+# Admin page 
+<img src="https://github.com/puthranroshan/ROBOCRAFT-MERN-STACK-/blob/main/Admin_pg.png" width="100%"></img>
 
 
-<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%20(71).png" width="100%"></img>
-
-# Weather App
-<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023410.png" width="100%"></img>
+# Login Page 
+<img src="https://github.com/puthranroshan/ROBOCRAFT-MERN-STACK-/blob/main/Login_pg.png" width="100%"></img>
 
 
-# Calculator App
-<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023503.png" width="100%"></img>
+
+# About us page 
+<img src="https://github.com/puthranroshan/ROBOCRAFT-MERN-STACK-/blob/main/about_us.png" width="100%"></img>
 
 
-# Text Editor
-<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023521.png" width="100%"></img>
 
-<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023538.png" width="100%"></img>
 
-# Gallery App
-<img src="https://github.com/richiehydra/Hydra-VOS/blob/main/images/Screenshot%202023-07-23%20023618.png" width="100%"></img>
+# Contact us Page 
+<img src="https://github.com/puthranroshan/ROBOCRAFT-MERN-STACK-/blob/main/contact_us.png" width="100%"></img>
+
+
+# Payment Page 
+<img src="https://github.com/puthranroshan/ROBOCRAFT-MERN-STACK-/blob/main/payment.png" width="100%"></img>
+
+
