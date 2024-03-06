@@ -4,6 +4,7 @@ Robocraft is a robotics workshop website using
 React.js for the front end, Node.js with Ex-
 press.js for the back end, and MongoDB for
 data storage.
+
 • Website registration enables payments, work-
 shop emails, and spam-free inboxes with ro-
 bust filters for candidates
